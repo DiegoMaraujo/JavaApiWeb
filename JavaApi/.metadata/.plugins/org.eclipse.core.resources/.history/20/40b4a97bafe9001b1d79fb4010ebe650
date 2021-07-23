@@ -1,0 +1,50 @@
+package br.com.inscricaoApiCadastroResourceTest.resource.test;
+
+
+import static org.junit.Assert.assertEquals;
+import static org.mockito.Mockito.when;
+
+import javax.ws.rs.core.Response;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.runners.MockitoJUnitRunner;
+
+import br.com.apiCadastro.resource.InscricaoHelper;
+import br.com.apiCadastro.resource.I
+import br.com.apiCadastro.resource.Pessoa;
+
+@RunWith(MockitoJUnitRunner.class)
+public class InscricaoApiCadastroResourceTest {
+	
+	@InjectMocks
+	InscricaoApiCadastroResource inscricaoApiCadastroResource = new InscricaoApiCadastroResource();
+	
+	
+	@After
+	public void finishTest() {
+		System.out.println("Teste Finalizado!");
+	}
+	
+	@Before
+	public void configTest() {
+		pessoa = new Pessoa();
+		pessoa.setMatricula(1);
+		pessoa.setNome("Maria");
+		System.out.println("Teste Iniciado!");
+	}
+	
+	@AfterClass
+	public static void finish() {
+		System.out.println("Classe de Teste Finalizado!");
+	}
+	
+	@BeforeClass
+	public static void config() {
+		System.out.println("Classe de Teste Iniciado!");
+	}
+}

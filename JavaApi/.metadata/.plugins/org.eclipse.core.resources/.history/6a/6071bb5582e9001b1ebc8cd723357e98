@@ -1,0 +1,5 @@
+package br.com.apiCadastro.resource;
+
+public class Pessoa {
+
+}

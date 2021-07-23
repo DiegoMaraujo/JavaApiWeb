@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Program Files\Amazon Corretto\jdk11.0.8_10" version="11.0.8"/>
+    <libraryInfo home="E:\jdk1.8.0_111\jre" version="1.8.0_111">
+        <bootpath>
+            <entry path="E:\jdk1.8.0_111\jre\lib\resources.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\rt.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jsse.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jce.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\charsets.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jfr.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\jdk1.8.0_111\bin" version="1.8.0_111">
+        <bootpath>
+            <entry path="E:\jdk1.8.0_111\jre\lib\resources.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\rt.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jsse.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jce.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\charsets.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jfr.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\jdk1.8.0_111" version="1.8.0_111">
+        <bootpath>
+            <entry path="E:\jdk1.8.0_111\jre\lib\resources.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\rt.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jsse.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jce.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\charsets.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\lib\jfr.jar"/>
+            <entry path="E:\jdk1.8.0_111\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\jdk1.8.0_111\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

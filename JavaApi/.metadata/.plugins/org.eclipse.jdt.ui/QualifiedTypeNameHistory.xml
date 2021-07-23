@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.mockito.runners.MockitoJUnitRunner"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+    <fullyQualifiedTypeName name="org.mockito.Mock"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="br.com.inscricaoApiCadastroResourceTest.resource.test.InscricaoApiCadastroResourceTest"/>
+    <fullyQualifiedTypeName name="br.com.apiCadastro.InscricaoApiView"/>
+    <fullyQualifiedTypeName name="br.com.inscricaoApiCadastroResourceTest.resource.test.InscricaoHelperTest"/>
+    <fullyQualifiedTypeName name="br.com.apiCadastro.resource.inscricaoApiCadastroResource"/>
+    <fullyQualifiedTypeName name="br.com.apiCadastro.resource.InscricaoApiCadastroResource"/>
+    <fullyQualifiedTypeName name="br.com.apiCadastro.resource.InscricaoHelper"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.apache.jasper.tagplugins.jstl.core.Remove"/>
+    <fullyQualifiedTypeName name="br.com.apiCadastro.resource.Pessoa"/>
+    <fullyQualifiedTypeName name="org.mockito.internal.stubbing.answers.ReturnsElementsOf"/>
+</qualifiedTypeNameHistroy>
